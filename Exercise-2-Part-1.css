@@ -1,0 +1,72 @@
+
+.biggest{
+    background-color: black;
+}
+.work-container{
+    background-color: white;
+    margin: 0px 150px 0px 150px;
+    
+
+}
+.logo-1{
+    background-color: rgb(28, 42, 58); 
+    
+}
+.amazon-1{
+height: 16px;
+width: 50px;
+display: flex;
+justify-content: left;
+text-align: left;
+line-height: 2px;
+padding: 5px 100px 5px 17px
+}
+
+.select{
+display: inline;
+padding-left: 13px;
+color: white;
+font-size: 7px;
+}
+
+.option{
+    background-color: rgb(55, 79, 104);
+   display: flex;
+  justify-content: left;
+  text-align: left;
+  line-height: 2px;
+
+}
+.card{
+    background-color: rgb(253, 112, 61);
+    height: 15px;
+    
+    text-align: center;
+    
+    margin: 15px 15px 15px 15px;
+    
+}
+.card-center{
+    font-size: 8px;
+    color: white;
+    padding-top: 3px;
+}
+.bg-image{
+    
+    background-image: url(Images/bg-image.png);
+    
+    background-repeat: repeat;
+       margin-top: 19px;
+}
+.guide{
+    font-size: 34.2px;
+    color: white;
+    
+    padding-top: 30px;
+    background-image: url(Images/bg-image.png);
+}
+.gifter{
+    color: white;
+    padding-bottom: 25px;
+
+}

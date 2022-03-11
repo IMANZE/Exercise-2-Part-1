@@ -89,7 +89,7 @@ font-size: 7px;
 }
 
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
+
 .column {
     float: left;
     padding: 10px;
@@ -98,7 +98,7 @@ font-size: 7px;
     border-radius: 30px;
     }
   
-  /* Clear floats after image containers */
+ 
   .row::after {
     content: "";
     clear: both;
@@ -149,4 +149,45 @@ display: block;
   width:50%;
 padding-top: 35px;
 padding-bottom: 35px;
+}
+.item-link{
+    color: darkcyan;
+    text-align: left;
+   
+}
+.first-row{
+display: inline-block;
+
+}
+.group{
+    display: inline-block;
+    margin: 5px 5px 5px 5px ;
+    
+}
+.group-container::after {
+    
+    content: "";
+        clear: both;
+        display: table;
+    
+}
+.group-container{
+    display: inline-block;
+    margin-bottom: 5px;
+    
+
+}
+.multi-pics{
+    max-width:111px;
+    margin: 5px 5px 5px 5px ;
+padding-left: 10px;
+padding-right: 10px
+   
+    
+}
+.buying{
+    text-align: left;
+    padding-left: 15px;
+    font-size: larger;
+
 }

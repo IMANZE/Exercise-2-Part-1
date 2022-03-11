@@ -46,6 +46,7 @@ font-size: 7px;
     
     margin: 15px 15px 15px 15px;
     
+    
 }
 .card-center{
     font-size: 8px;
@@ -93,7 +94,7 @@ font-size: 7px;
 .column {
     float: left;
     padding: 10px;
-    max-width: 283px;
+    max-width: 276px;
     height: 300px;
     border-radius: 30px;
     object-fit: cover;
@@ -180,7 +181,7 @@ display: inline-block;
 
 }
 .multi-pics{
-    max-width:111px;
+    max-width:109px;
     margin: 5px 5px 5px 5px ;
 padding-left: 10px;
 padding-right: 10px

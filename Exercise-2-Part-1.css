@@ -96,6 +96,7 @@ font-size: 7px;
     max-width: 283px;
     height: 300px;
     border-radius: 30px;
+    object-fit: cover;
     }
   
  
@@ -153,6 +154,7 @@ padding-bottom: 35px;
 .item-link{
     color: darkcyan;
     text-align: left;
+    padding-left: 8px;
    
 }
 .first-row{

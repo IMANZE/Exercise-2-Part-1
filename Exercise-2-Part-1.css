@@ -94,7 +94,7 @@ font-size: 7px;
 .column {
     float: left;
     padding: 10px;
-    max-width: 276px;
+    max-width: 284px;
     height: 300px;
     border-radius: 30px;
     object-fit: cover;
@@ -181,7 +181,7 @@ display: inline-block;
 
 }
 .multi-pics{
-    max-width:109px;
+    max-width:113px;
     margin: 5px 5px 5px 5px ;
 padding-left: 10px;
 padding-right: 10px

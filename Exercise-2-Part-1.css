@@ -1,230 +1,196 @@
-
-.biggest{
-    background-color: black;
-    
+.biggest {
+  background-color: black;
 }
-.work-container{
-    background-color: white;
-    
-    
-
+.work-container {
+  background-color: white;
 }
-.logo-1{
-    background-color: rgb(28, 42, 58); 
-    
+.logo-1 {
+  background-color: rgb(28, 42, 58);
 }
-.amazon-1{
-height: 16px;
-width: 50px;
-display: flex;
-justify-content: left;
-text-align: left;
-line-height: 2px;
-padding: 5px 100px 5px 17px
-}
-
-.select{
-display: inline;
-padding-left: 13px;
-color: white;
-font-size: 7px;
-}
-
-.option{
-    background-color: rgb(55, 79, 104);
-   display: flex;
+.amazon-1 {
+  height: 16px;
+  width: 50px;
+  display: flex;
   justify-content: left;
   text-align: left;
   line-height: 2px;
-
-}
-.card{
-    background-color: rgb(253, 112, 61);
-    height: 15px;
-    
-    text-align: center;
-    
-    margin: 15px 15px 15px 15px;
-    
-    
-}
-.card-center{
-    font-size: 8px;
-    color: white;
-    padding-top: 3px;
-}
-.bg-image{
-    
-    background-image: url(Images/bg-image.png);
-    
-    background-repeat: repeat;
-       margin-top: 19px;
-       
-}
-.guide{
-    font-size: 34.2px;
-    color: white;
-    
-    padding-top: 30px;
-    background-image: url(Images/bg-image.png);
-}
-.gifter{
-    color: white;
-    padding-bottom: 25px;
-
-}
-.perfect{
-    color: darkcyan;
-
-}
-.find{
-    text-align: left;
-    padding-left: 10px;
-    padding-top: 10px;
-    
-    
-}
-.before-gift{
-    background-color: white;
-    
+  padding: 5px 100px 5px 17px;
 }
 
+.select {
+  display: inline;
+  padding-left: 13px;
+  color: white;
+  font-size: 7px;
+}
 
+.option {
+  background-color: rgb(55, 79, 104);
+  display: flex;
+  justify-content: left;
+  text-align: left;
+  line-height: 2px;
+}
+.card {
+  background-color: rgb(253, 112, 61);
+  height: 15px;
+
+  text-align: center;
+
+  margin: 15px 15px 15px 15px;
+}
+.card-center {
+  font-size: 8px;
+  color: white;
+  padding-top: 3px;
+}
+.bg-image {
+  background-image: url(Images/bg-image.png);
+
+  background-repeat: repeat;
+  margin-top: 19px;
+}
+.guide {
+  font-size: 34.2px;
+  color: white;
+
+  padding-top: 30px;
+  background-image: url(Images/bg-image.png);
+}
+.gifter {
+  color: white;
+  padding-bottom: 25px;
+}
+.perfect {
+  color: darkcyan;
+}
+.find {
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+.before-gift {
+  background-color: white;
+}
 
 .column {
-    float: left;
-    padding: 10px;
-    max-width: 284px;
-    height: 300px;
-    border-radius: 30px;
-    object-fit: cover;
-    }
-  
- 
-  .row::after {
-    content: "";
-    clear: both;
-    display: table;
-}
-.row{
-    margin-bottom: 20px;
-}
-.pic-nine{
-    /*max-height: 250px;
-    max-width: 1210px;*/
-    
-    max-width: 100%;
-    max-height: 100%
-}
-.book{
-   
-    
-   padding-top: 10px; 
-   padding-bottom: none; 
-   
-}
-.play{
-margin-top: 0;
+  float: left;
+  padding: 10px;
+  max-width: 284px;
+  height: 300px;
+  border-radius: 30px;
+  object-fit: cover;
 }
 
-.option-two{
-    background-color: rgb(55, 79, 104);
-   display: flex;
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.row {
+  margin-bottom: 20px;
+}
+.pic-nine {
+  /*max-height: 250px;
+    max-width: 1210px;*/
+
+  max-width: 100%;
+  max-height: 100%;
+}
+.book {
+  padding-top: 10px;
+  padding-bottom: none;
+}
+.play {
+  margin-top: 0;
+}
+
+.option-two {
+  background-color: rgb(55, 79, 104);
+  display: flex;
   justify-content: center;
   text-align: left;
   line-height: 30px;
   color: white;
-
 }
-.logo-2{
-    background-color: rgb(28, 42, 58);
-    
+.logo-2 {
+  background-color: rgb(28, 42, 58);
 }
 
-.amazon-2{
-max-height: 150px;
-max-width: 60px;
+.amazon-2 {
+  max-height: 150px;
+  max-width: 60px;
 
-display: block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  width:50%;
-padding-top: 35px;
-padding-bottom: 35px;
+  width: 50%;
+  padding-top: 35px;
+  padding-bottom: 35px;
 }
-.item-link{
-    color: darkcyan;
-    text-align: left;
-    padding-left: 8px;
-   
+.item-link {
+  color: darkcyan;
+  text-align: left;
+  padding-left: 8px;
 }
-.first-row{
-display: inline-block;
-
+.first-row {
+  display: inline-block;
 }
-.group{
-    display: inline-block;
-    margin: 5px 5px 5px 5px ;
-    
+.group {
+  display: inline-block;
+  margin: 5px 5px 5px 5px;
 }
 .group-container::after {
-    
-    content: "";
-        clear: both;
-        display: table;
-    
+  content: "";
+  clear: both;
+  display: table;
 }
-.group-container{
-    display: inline-block;
-    margin-bottom: 5px;
-    
-
+.group-container {
+  display: inline-block;
+  margin-bottom: 5px;
 }
-.multi-pics{
-    max-width:113px;
-    margin: 5px 5px 5px 5px ;
-padding-left: 10px;
-padding-right: 10px
-   
-    
+.multi-pics {
+  max-width: 113px;
+  margin: 5px 5px 5px 5px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-.buying{
-    text-align: left;
-    padding-left: 15px;
-    font-size: larger;
-
+.buying {
+  text-align: left;
+  padding-left: 15px;
+  font-size: larger;
 }
 
 #img-row {
-    font-size: 0px;
+  font-size: 0px;
 }
 #img-row > div {
-    font-size: 1rem;
-    position: relative;
-    z-index: 1;
-    display: inline-block;
-    width: 25%;
-    padding: 0 1em;
-    box-sizing: border-box;
-    overflow: hidden;
+  font-size: 1rem;
+  position: relative;
+  z-index: 1;
+  display: inline-block;
+  width: 25%;
+  padding: 0 1em;
+  box-sizing: border-box;
+  overflow: hidden;
 }
 
 #img-row > div img {
-    max-width: 100%;
-    height: 20vh;
-    object-fit: cover;
+  max-width: 100%;
+  height: 20vh;
+  object-fit: cover;
 }
 
 #img-row > div:hover .overlay {
-    transform: translateY(0px);
-    opacity: 1;
+  transform: translateY(0px);
+  opacity: 1;
 }
 
 .overlay {
-    position: absolute;
-   inset: 0 1em;
-    background-color: rgba(0, 139, 139, 0.39);
-    transform: translateY(-100%);
-    opacity: 0;
-    transition: all 0.4s ease-in-out;
+  position: absolute;
+  inset: 0 1em;
+  background-color: rgba(0, 139, 139, 0.39);
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: all 0.4s ease-in-out;
 }
